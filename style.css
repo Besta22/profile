@@ -1,6 +1,6 @@
 /* Here goes your CSS */
 body{
-  background-image: url('..images/background.jpg');
+  background-image: url('images/background.jpg');
   font-family: 'Josefin Sans', sans-serif;
   background-color: white;
   text-transform: lowercase;
@@ -63,7 +63,7 @@ h1{
   padding-bottom: 20px;
   margin-top: 20px;
 /*  background-color: white;*/
-  background-image: url("../images/wrap2.JPG");
+  background-image: url("images/wrap2.jpg");
  }
 
 h2{
