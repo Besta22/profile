@@ -1,0 +1,110 @@
+/* Here goes your CSS */
+body{
+  background-image: url('..images/background.jpg');
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: white;
+  text-transform: lowercase;
+  text-align: left;
+}
+
+.list-inline {
+  list-style: none;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  margin-left: 5px;
+  margin-right: 10px;
+  font-size: 60px;
+  letter-spacing: 40px;
+}
+
+.container {
+  margin: 30px auto;
+  margin-left: auto;
+  width: 600px;
+  text-align: center;
+  margin-right: auto;
+}
+
+.card {
+  background-color: black;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 30px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1{
+  color: white;
+  font-size: 30px;
+  padding: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+/*  background-color: white;*/
+  background-image: url("../images/wrap2.JPG");
+ }
+
+h2{
+  color: white;
+  font-size: 25px;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+p{
+  color: white;
+  font-size: 20px;
+}
+
+tr{
+  color: white;
+  font-size: 25px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: left;
+  padding: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+td{
+  color: white;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: left;
+  padding: 30px;
+  padding-bottom: 30px;
+  margin-top: 30px;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.img-circle {
+  border-radius: 50%;
+  text-align: center;
+}
